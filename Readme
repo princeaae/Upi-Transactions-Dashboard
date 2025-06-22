@@ -36,7 +36,8 @@ Dataset was cleaned to fix inconsistent merchant names, missing fields, and form
 
 Dashboard Screenshot
 
-![Dashboard Screenshot](./screenshot.png)
+![Dashboard Screenshot](images/screenshot.png)
+
 
 Key Features
 Dynamic filters** for Bank, Device Type, Payment Mode, and Purpose  
