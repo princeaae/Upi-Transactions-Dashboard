@@ -34,7 +34,7 @@ Dataset Overview
 
 Dataset was cleaned to fix inconsistent merchant names, missing fields, and format standardization using Excel and Pandas.
 
-Dashboard Screenshot
+📷 Dashboard Screenshot
 
 ![Dashboard Screenshot](./screenshot.png)
 
