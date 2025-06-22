@@ -34,9 +34,7 @@ Dataset Overview
 
 Dataset was cleaned to fix inconsistent merchant names, missing fields, and format standardization using Excel and Pandas.
 
-📷 Dashboard Screenshot
-
-![Dashboard Screenshot](./screenshot.png)
+Tableau Link Dashboard- https://public.tableau.com/views/Book1_17499677884610/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
